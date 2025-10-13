@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+    <a href="https://en.wikipedia.org/wiki/Systems_programming">
+      <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+    </a>
 </p>
 
 # Awesome [Linux](https://docs.kernel.org/core-api/kernel-api.html) [System](https://en.wikipedia.org/wiki/Systems_programming) [Programming](https://en.wikipedia.org/wiki/System_programming_language) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
